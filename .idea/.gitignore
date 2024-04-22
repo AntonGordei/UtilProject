@@ -1,9 +1,9 @@
-# Default ignored files
-/shelf/
-/.idea/
-.xml
-.iml
-.md
+ Default ignored files
+*.xml
+*.iml
+*.md
+.idea/UtilProject.iml
+
 
 
 
