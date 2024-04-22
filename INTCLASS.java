@@ -1,4 +1,4 @@
-public class UTLPROJECT_3 {
+public class INTCLASS {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};
         System.out.println("Min array's value is " + getMinValue(array));
