@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class StringMetod {
+public class StringMassivMetod {
 
     public static void main(String[] args) {
 
