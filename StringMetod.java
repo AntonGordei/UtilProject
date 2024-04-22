@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class HW2 {
+public class StringMetod {
 
     public static void main(String[] args) {
 
